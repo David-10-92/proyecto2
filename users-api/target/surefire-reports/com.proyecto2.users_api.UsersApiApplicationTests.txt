@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.proyecto2.users_api.UsersApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.52 s -- in com.proyecto2.users_api.UsersApiApplicationTests

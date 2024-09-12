@@ -1,0 +1,6 @@
+/Users/mac/Desktop/users-api/src/main/java/com/proyecto2/users_api/UsersApiApplication.java
+/Users/mac/Desktop/users-api/src/main/java/com/proyecto2/users_api/controller/dtos/UserDto.java
+/Users/mac/Desktop/users-api/src/main/java/com/proyecto2/users_api/controller/dtos/UserRequest.java
+/Users/mac/Desktop/users-api/src/main/java/com/proyecto2/users_api/controller/entities/UserModel.java
+/Users/mac/Desktop/users-api/src/main/java/com/proyecto2/users_api/service/UserService.java
+/Users/mac/Desktop/users-api/src/main/java/com/proyecto2/users_api/service/impl/UserServiceImpl.java
