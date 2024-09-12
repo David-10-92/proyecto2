@@ -1,0 +1,16 @@
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/AuthServiceApiApplication.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/commons/constants/ApiPathConstants.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/commons/dtos/LoginRequest.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/commons/dtos/TokenResponse.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/commons/dtos/UserRequest.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/commons/entities/UserModel.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/config/JwtAuthFilter.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/config/SecurityConfig.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/controller/AuthApi.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/controller/impl/AuthController.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/repositories/UserRepository.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/service/AuthService.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/service/JwtService.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/service/impl/AuthServiceImpl.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/service/impl/JwtServiceImpl.java
+/Users/mac/Desktop/proyecto2/auth-service-api/src/main/java/com/proyecto2/auth_service_api/service/impl/UserDetailsImpl.java
